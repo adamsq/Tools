@@ -1,7 +1,4 @@
-# Tools
-Some tools for embedded develop in linux.
-
-##烧写工具
+##一、烧写工具
 请先装好python，烧写选项请运行一下脚本，有提示。
 
 ###stcflash.py
